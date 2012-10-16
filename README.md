@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Create a basic photo ordering tool based on the images and JavaScript include provided. Thumbnails of the images should display in the order dictated by the include using a grid-based layout, and should be re-orderable by dragging the images to their desired position.
+Create a basic photo ordering tool based on the images provided. Thumbnails of the images should display in the order dictated by the include using a grid-based layout, and should be re-orderable by dragging the images to their desired position.
 
 ## Requirements
 
